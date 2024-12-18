@@ -20,5 +20,5 @@ An interactive, multi-player game tracking application designed for tracking, re
 
 The application uses a modular architecture to separate concerns:
 - **Screens**: Individual pages like `Game Screen`, `Game History`, and `Winner Popup`.
-- **State Management**: Local state is managed within React components and persisted using `AsyncStorage` and `SQLite`.
+- **State Management**: Local state is managed within React components and persisted using `AsyncStorage`.
 - **Database**: Tracks in-progress and completed games, players, and move history with constraints to ensure data integrity.
