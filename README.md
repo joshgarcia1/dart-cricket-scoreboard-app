@@ -22,3 +22,7 @@ The application uses a modular architecture to separate concerns:
 - **Screens**: Individual pages like `Game Screen`, `Game History`, and `Winner Popup`.
 - **State Management**: Local state is managed within React components and persisted using `AsyncStorage`.
 - **Database**: Tracks in-progress and completed games, players, and move history with constraints to ensure data integrity.
+
+## Request Access to App
+
+The app is currently only available through iOS on the TestPilot platform. Access to the app can be requested by emailing jgdevelopmentsupport@protonmail.com and providing your preferred email so we can add it the distributed users list.
